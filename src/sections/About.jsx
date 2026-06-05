@@ -19,7 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Sri Sitharth</p>
             <p className="subtext">
-              Experienced professional with more than 4 years of diverse work experience, specializing in many web and 3D technologies.
+              Experienced professional with almost 5 years of diverse work experience, specializing in many web and 3D technologies.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -101,7 +101,7 @@ const About = () => {
         <div className="grid-special-color grid-4">
           <div className="flex flex-col items-center justify-center gap-4 size-full">
             <p className="text-center headtext">
-              Do you want to start a project together?
+              AMFI Registered Mutual Fund Distributor
             </p>
             <CopyEmailButton />
           </div>
@@ -109,9 +109,9 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
+              I specialize in a variety of languages, frameworks, and tools that
               allow me to build robust and scalable applications
             </p>
           </div>

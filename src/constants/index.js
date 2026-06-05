@@ -281,8 +281,19 @@ export const mySocials = [
 export const experiences = [
   {
     title: "Full Stack Developer",
+    job: "SEV Technologies Private Limited",
+    date: "Jan 26 - Apr 26",
+    contents: [
+      "✅ Contributed to the development of an EV mobility platform using Node.js, Express.js, PostgreSQL, Docker, and AWS, following Clean Architecture principles.",
+      "✅ Developed and maintained 300+ RESTful APIs supporting trip tracking, reward management, redemption workflows, user management, and other core platform features.",
+      "✅ Implemented JWT-based authentication, optimized database performance, and built scalable backend services for high-performance application workflows.",
+      "✅ Developed real-time features using Socket.IO, containerized applications with Docker, and supported deployment and maintenance on AWS infrastructure.",
+    ],
+  },
+  {
+    title: "Full Stack Developer",
     job: "Addinstech LLP",
-    date: "Jun 24 - Present",
+    date: "Jun 24 - Nov 25",
     contents: [
       "✅ Developed a 3D shortest path finding tool using the A* algorithm with Revit API (C#), Three.js and WPF for user interface.",
       "✅ Integrated Autodesk Forge Viewer with Design Automation API to dynamically apply wall finishes in 3D Revit models.",

@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© 2025 Sri Sitharth. All rights reserved.</p>
+      <p>© 2026 Sri Sitharth. All rights reserved.</p>
     </section>
   );
 };
